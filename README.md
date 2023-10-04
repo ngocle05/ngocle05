@@ -14,8 +14,9 @@
  ---  
 :woman_technologist: About Me
 ```yaml
-⭐️ A senior majoring in Computer Science and Applied Mathematics at Augustana College
-⭐️ I'm currently learning IOS app development
+⭐️ I was born and raised in Vietnam 🇻🇳
+⭐️ Currently, I live in Illinois, USA 🇺🇸
+⭐️ I'm now a senior majoring in Computer Science and Applied Mathematics 👩‍💻
 ⭐️ In my free time, I enjoy playing sports 🎾 🏓, taking photos 📷 and cooking Vietnamese food 🍽
 ```
 
